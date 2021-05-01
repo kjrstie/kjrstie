@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kjrstie
-- 👀 I’m interested in Blender3d & InkScape.
+- 👀 I’m interested in Blender3d & InkScape
 - 📫 : kjrstie.art@gmail.com
 
 <!---
